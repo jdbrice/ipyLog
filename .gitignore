@@ -1,6 +1,7 @@
 # doc stuff
 *.pdf
 *.png
+*.dat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

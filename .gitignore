@@ -1,5 +1,6 @@
-# doc stuff
+# doc / image stuff
 *.pdf
+*.eps
 *.png
 *.dat
 

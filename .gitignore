@@ -61,3 +61,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+#ignore the examples i have here
+/ipynb_examples

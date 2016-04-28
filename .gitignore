@@ -69,3 +69,4 @@ target/
 
 # data
 *.root
+.ipynb_checkpoints
